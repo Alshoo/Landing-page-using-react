@@ -1,0 +1,42 @@
+#fdfbackgroun{
+    padding-top: 100px;
+    background-image: url("../../public/images/background-faqs.png");
+}
+
+#textfooter p{
+    color: #4B5563;
+    width: 90%;
+}
+#fdfjqoerwmzew{
+    color:#4B5563 ;
+}
+#endsecfldlo a{
+    text-decoration: none; 
+
+}
+#pauewetianer p{
+    padding-left: 20px;
+    color: #4B5563;
+}
+@media (max-width:500px) {
+    #fdf1js2{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+@media (max-width:270px) {
+    #endsecfldlo{
+        padding-right: 25px;
+    }
+    #pauewetianer{
+        display: block!important;
+    }
+   
+}
+
+
+
+
+

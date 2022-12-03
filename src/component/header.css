@@ -1,0 +1,102 @@
+.ju{
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+    padding: 70px 0 ;
+}
+#fdfpqowieur{
+    padding: 0 10px 50px ;
+}
+#dfoiow{
+   display: flex;
+   justify-content:center ;
+   padding: 20px 5px 100px;
+
+}
+@media (max-width:320px) {
+    #dfoiow{
+        margin-left: 20px;
+        display: flex;
+        justify-content:center ;
+        flex-direction: column;
+        gap: 10px;
+     }
+     #dfoiow #dsfdsf1{
+        margin-left: 2px!important;
+        margin-right: 10px!important;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+    }
+
+}
+#dfoiow #dsfdsf{ 
+    border-radius: 38px;
+    background: #111928;
+    color: #FFFFFF;
+    padding: 8px 13px;
+    height: 100%;
+    margin: 0px 12px 0 0;
+}
+#dfoiow #dsfdsf1{
+    display: flex;
+    align-items: center;    
+    gap: 5px;
+    border-radius: 38px;
+    background: #FFFFFF;
+    padding: 0 13px;
+    border: #11192875 solid 1px;
+    margin: 0 0 0 12px;
+} 
+#logooo{
+    display: flex;
+    justify-content:center;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 0 29px ;
+}
+#dsdsloge{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

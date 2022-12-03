@@ -1,0 +1,164 @@
+
+#toggle{
+    width: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.5px;
+    right: 40px;
+    cursor: pointer;
+    display: none;
+    
+
+
+}
+
+#toggle div{
+    background: black;
+    margin-bottom: 5px;
+    height: 3px;
+    transition: 0.5s;
+    width: 30px;
+
+
+}
+#toggle div:first-child{
+   width: 100%;
+}
+#toggle div:nth-child(2){
+    width: 70%;
+    display: flex;
+    
+}
+#toggle div:last-child{
+    width: 100%;
+    
+} 
+#toggle:hover div:nth-child(2){
+    width: 100%;
+}
+@media (max-width:1000px) {
+    #Ahmedpro li{
+        display: none !important;
+    }
+    #Ahmedprootr li{
+        display: none !important;
+    }
+    
+    #toggle{
+        display: flex;
+        transform: translate(80%,-96%);
+    }
+
+   
+}
+#llssa img{
+    margin-top: 6px;
+    height: 29px;
+    width: 20%;
+}
+#llssa h1{
+    font-size: 30px;
+}
+
+#hpeq p{
+    border-bottom: #FFFFFF solid 2px;
+    color: black; 
+    cursor: pointer;
+    
+}
+
+#hpeq:hover p{
+    animation: retee 0.9s ;
+    border-bottom: #2563EB solid 2px;
+}  
+
+@keyframes retee{
+    0%{
+        border-bottom: #2563EB solid 2px;
+        width: 10%;
+    }
+    20%{
+        border-bottom: #2563EB solid 2px;
+        width: 30%;
+    }
+    40%{
+        border-bottom: #2563EB solid 2px;
+        width: 50%;
+    }
+    60%{
+        border-bottom: #2563EB solid 2px;
+        width: 70%;
+    }
+    80%{
+        border-bottom: #2563EB solid 2px;
+        width: 90%;
+    }
+    100%{
+        border-bottom: #2563EB solid 2px;
+    }
+}
+
+#hpeqq {
+    margin: 10px 10px;
+    cursor: pointer;
+    line-height: 50px;
+
+}
+#hpeqq:hover p{
+    transform: scale(1.1);
+}
+
+
+
+#fffp:hover{
+    border:solid 1px black;
+    background: #ffffff1f;
+}
+#fffpp{
+    border:solid 1px black;
+    
+}
+#fffpp:hover{
+    transform: scale(1.1);
+    background: #ffffff1f;
+}
+
+#rewr{
+    /* width: 450px; */
+    display: inline-flex;
+    text-align: center;
+    gap: 30px;
+    padding: 7px;
+    border-radius: 20px;
+    background: #333;
+    margin: 150px 0 0;
+    font-size: 15px;
+}
+#f1{
+    color: #0A66C2;
+}
+#f2{
+    color: #129AF6;
+}
+#f3{
+    color: #F601D1;
+}
+#f4{
+    color: red;
+   
+}
+#f1:hover{
+   transform: scale(1.1); 
+}
+#f2:hover{
+    transform: scale(1.1);
+}
+#f3:hover{
+    transform: scale(1.1);
+}
+#f4:hover{
+    transform: scale(1.1);
+}
+

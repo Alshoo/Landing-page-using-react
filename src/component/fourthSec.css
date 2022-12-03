@@ -1,0 +1,51 @@
+#startedtoday{
+    background-image: url("../../public/images/background-features.png");
+}
+.sdfoefok{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 125px;
+    text-align: center;
+    margin: auto; 
+    padding-bottom: 90px;
+}
+
+.sdfoefok p{
+    padding-top: 20px;
+    width: 33%;
+    margin: auto;
+}
+.sdfoefok button{
+    width: 170px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 45px;
+}
+@media (max-width:850px) {
+    .sdfoefok{
+        display: flex;
+        flex-direction: column; 
+        justify-content: center;
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 125px;
+        text-align: center;
+        margin: auto; 
+        padding-bottom: 15px;
+    }
+    .sdfoefok p{
+        padding-top: 20px;
+        width: 60%;
+        margin: auto;
+    }
+}
+
+
+
+
+
+
+
